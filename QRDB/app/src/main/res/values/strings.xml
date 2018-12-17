@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QRDB</string>
+    <string name="turn_on">Turn On</string>
+    <string name="history">History</string>
+    <string name="instruction">INSTRUCTION</string>
+    <string name="_1_buttons">1. Buttons</string>
+    <string name="scan_open_qr_scaner">SCAN - open qr scaner</string>
+    <string name="history_show_list_of_all_scaned_qr_codes">HISTORY - show list of all scaned qr codes</string>
+    <string name="_2_history">2. History</string>
+    <string name="click_go_to_website">CLICK - go to website</string>
+    <string name="hold_open_location_where_the_scan_was_made">HOLD - open location where the scan was made</string>
+</resources>
