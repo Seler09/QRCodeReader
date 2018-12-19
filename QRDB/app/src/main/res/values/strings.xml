@@ -9,4 +9,6 @@
     <string name="_2_history">2. History</string>
     <string name="click_go_to_website">CLICK - go to website</string>
     <string name="hold_open_location_where_the_scan_was_made">HOLD - open location where the scan was made</string>
+    <string name="scan_me">Scan Me</string>
+    <string name="by_bartosz_kalinka_217120">by Bartosz Kalinka 217120</string>
 </resources>
